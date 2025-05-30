@@ -11,6 +11,10 @@ An AI-powered resume screening tool that ranks candidate resumes based on their 
 - Rank resumes by semantic similarity
 - Intuitive Streamlit frontend
 
+## 🚀 Demo
+
+Screenshot attached in the directory
+(app_demo.png)
 
 ## 🧠 Tech Stack
 
